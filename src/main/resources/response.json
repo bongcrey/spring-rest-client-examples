@@ -1,0 +1,16 @@
+{
+    "meta": {
+      "count": 22,
+      "limit": 10,
+      "page": 2,
+      "previous_url": "/shop/products/?page=1&limit=10",
+      "next_url": "/shop/products/?page=3&limit=10"
+    },
+    "customers": [
+      {
+        "firstname": "Susan",
+        "lastname": "Tanner",
+        "customer_url": "/shop/customer/642"
+      }
+    ]
+  }
